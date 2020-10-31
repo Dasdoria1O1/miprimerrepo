@@ -1,12 +1,6 @@
-#include <iostream> //Biblioteca donde se encuentra la funci+on cout
+#include<iostream>
 using namespace std;
-
 int main(){
-  cout << "estamos en c++";
-  return 1;
-
+       cout<<"sfsdfs";        
+       return 0;
 }
-
-
-// ==============
-// estamos en c++

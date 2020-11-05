@@ -53,4 +53,3 @@ void mostrarLibro(Libro libro[3]){
   }
  }
 }
-
